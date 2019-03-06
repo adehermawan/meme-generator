@@ -1,4 +1,4 @@
 const username = 'adhe';
-const password = 'Hermawan165';
+const password = 'Testing123';
 
 export { username, password };
